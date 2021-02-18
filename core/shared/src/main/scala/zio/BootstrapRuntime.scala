@@ -15,7 +15,6 @@
  */
 
 package zio
-
 import zio.internal.Platform
 
 /**
