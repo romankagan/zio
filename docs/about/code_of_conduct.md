@@ -25,6 +25,7 @@ The ZIO project is moderated by the Steering Committee team members:
 - Pierre Ricadat [@ghostdogpr](https://github.com/ghostdogpr)
 - Salar Rahmanian [@softinio](https://github.com/softinio)
 - Wiem Zine El Abidine [@wi101](https://github.com/wi101)
+- Roman Kagan [@rkagan](https://github.com/romankagan)
 
 The ZIO project requires that drastic moderation actions detailed in the code of 
 conduct - for example, removing a user from the Gitter channel - be agreed upon
