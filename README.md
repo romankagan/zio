@@ -16,7 +16,7 @@ Powered by highly-scalable, non-blocking fibers that never waste or leak resourc
 
  - **High-performance**. Build scalable applications with 100x the performance of Scala's `Future`.
  - **Type-safe**. Use the full power of the Scala compiler to catch bugs at compile time.
- - **Concurrent**. Easily build concurrent apps without deadlocks, race conditions, or complexity.
+ - **Concurrent**. Build concurrent apps without deadlocks, race conditions, or complexity.
  - **Asynchronous**. Write sequential code that looks the same whether it's asynchronous or synchronous.
  - **Resource-safe**. Build apps that never leak resources (including threads!), even when they fail.
  - **Testable**. Inject test services into your app for fast, deterministic, and type-safe testing.
@@ -117,7 +117,6 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/mas
 [![SoftwareMill][Image-SoftwareMill]][Link-SoftwareMill]
 
 [SoftwareMill][Link-SoftwareMill] generously provides ZIO with paid-for CircleCI build infrastructure.
-
 
 ---
 
